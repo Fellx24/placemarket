@@ -1,10 +1,11 @@
 {
-    "PORT": 5000,
-    "DATABASE": {
-        "host": "queenie.db.elephantsql.com",
-        "port": 5432,
-        "user": "zifhjala",
-        "password": "IvXe8f4f-CBwFxfcH9Vxodq4TVA__7CW",
-        "database": "zifhjala"
-    }
+"PORT": 5000,
+"DATABASE": {
+    "host": "queenie.db.elephantsql.com",
+    "port": 5432,
+    "user": "zifhjala",
+    "password": "IvXe8f4f-CBwFxfcH9Vxodq4TVA__7CW",
+    "database": "zifhjala"
+},
+    "JWT_SECRET": "ptlxSbZ26KHrGN5V"
 }
